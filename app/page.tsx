@@ -16,7 +16,6 @@ export default function Home() {
               priority
               className="opacity-30 max-w-none"
               />
-              {/* teste */}
             </div>
           </div>
         </div>
